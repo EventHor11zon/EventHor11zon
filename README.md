@@ -1,5 +1,17 @@
-## Yo wassup
+# Horizon
 
-You have stumbled upon my alt account on GitHub. My main account is a mess, and I don't believe I can keep using it the way I do as a professional, so I've created this account to keep my personal projects in.
+Electrical engineering student from Türkiye · 18 years old
 
-Feel free to check some of my projects! That is, if they are public of course.
+I spend my free time building video games. Nothing public here yet,
+but you can follow my progress on [Twitter/X](https://x.com/Event_Hor11zon).
+
+---
+
+## Tools & Languages
+
+Python & Pygame · Godot Game Engine · Lua & Love2D · Scratch
+
+## Currently
+
+- **Learning:** Spanish
+- **Building:** DESOLATION, A sci-fi, 2D, top-down shooter game 
