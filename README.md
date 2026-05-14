@@ -1,5 +1,7 @@
 # Horizon
 
+![Hackatime Badge](https://github-readme-stats.hackclub.dev/api/wakatime?username=34250&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 Electrical engineering student from Türkiye · 18 years old
 
 I spend my free time building video games. Nothing public here yet,
